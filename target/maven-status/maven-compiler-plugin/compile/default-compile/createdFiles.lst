@@ -1,0 +1,6 @@
+motores\MotorDiesel.class
+motores\MotorElectrico.class
+motores\Motor.class
+motores\MotorElectricoAdapter.class
+motores\Motores.class
+motores\MotorGasolina.class
